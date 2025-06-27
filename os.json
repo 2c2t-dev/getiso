@@ -1,0 +1,130 @@
+{
+  "Windows": {
+    "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/icons/windows.png",
+    "distros": {
+      "Customer": {
+        "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/icons/windows.png",
+        "versions": {
+          "3.1": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/windows/3.1.png", "iso": "" },
+          "95": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/windows/95.png", "iso": "" },
+          "98": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/windows/98.png", "iso": "" },
+          "ME": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/windows/ME.png", "iso": "" },
+          "2000": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/windows/2000.png", "iso": "" },
+          "XP": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/windows/XP.png", "iso": "" },
+          "7": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/windows/7.png", "iso": "" },
+          "8": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/windows/8.png", "iso": "" },
+          "8.1": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/windows/8.1.png", "iso": "" },
+          "10": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/windows/10.png", "iso": "" },
+          "11": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/windows/11.png", "iso": "https://example.com/windows11.iso" }
+        }
+      },
+      "Server": {
+        "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/icons/windows.png",
+        "versions": {
+          "2022": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/windows/server2022.png", "iso": "" },
+          "2019": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/windows/server2019.png", "iso": "" }
+        }
+      }
+    }
+  },
+  "macOS": {
+    "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/icons/macos.png",
+    "versions": {
+      "10.1": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.1.png", "iso": "" },
+      "10.2": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.2.png", "iso": "" },
+      "10.3": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.3.png", "iso": "" },
+      "10.4": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.4.png", "iso": "" },
+      "10.5": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.5.png", "iso": "" },
+      "10.6": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.6.png", "iso": "" },
+      "10.7": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.7.png", "iso": "" },
+      "10.8": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.8.png", "iso": "" },
+      "10.9": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.9.png", "iso": "" },
+      "10.10": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.10.png", "iso": "" },
+      "10.11": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.11.png", "iso": "" },
+      "10.12": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.12.png", "iso": "" },
+      "10.13": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.13.png", "iso": "" },
+      "10.14": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.14.png", "iso": "" },
+      "10.15": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/10.15.png", "iso": "" },
+      "11": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/11.png", "iso": "" },
+      "12": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/12.png", "iso": "" },
+      "13": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/13.png", "iso": "" },
+      "14": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/14.png", "iso": "" },
+      "15": { "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/macos/15.png", "iso": "" }
+    }
+  },
+  "Linux": {
+    "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/icons/linux.png",
+    "distros": {
+      "Ubuntu": {
+        "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/linux/ubuntu.png",
+        "versions": {
+          "22.04": {
+            "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/linux/ubuntu.png",
+            "iso": "https://example.com/2204.iso"
+          },
+          "24.04": {
+            "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/linux/ubuntu.png",
+            "iso": ""
+          }
+        }
+      },
+      "Debian": {
+        "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/linux/debian.png",
+        "versions": {}
+      },
+      "Fedora": {
+        "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/linux/fedora.png",
+        "versions": {}
+      },
+      "Arch Linux": {
+        "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/linux/archlinux.png",
+        "versions": {}
+      },
+      "AlmaLinux": {
+        "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/linux/almalinux.png",
+        "versions": {}
+      },
+      "RockyLinux": {
+        "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/linux/rockylinux.png",
+        "versions": {}
+      },
+      "Pop!_OS": {
+        "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/linux/popos.png",
+        "versions": {}
+      },
+      "ZorinOS": {
+        "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/linux/zorinos.png",
+        "versions": {}
+      },
+      "Alpine": {
+        "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/os/linux/alpine.png",
+        "versions": {}
+      }
+    }
+  },
+  "NAS": {
+    "icon": "https://cdn.2c2t.dev/2c2t-icons/assets/icons/nas.png",
+    "distros": {
+      "TrueNAS": {
+        "icon": "",
+        "iso": ""
+      },
+      "OpenMediaVault": {
+        "icon": "",
+        "versions": {}
+      },
+      "XigmaNAS": {
+        "icon": "",
+        "versions": {}
+      },
+      "Unraid": {
+        "icon": "",
+        "versions": {}
+      },
+      "FreeNAS": {
+        "icon": "",
+        "versions": {}
+      }
+    }
+  }
+}
